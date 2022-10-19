@@ -25,6 +25,18 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
+
+        <activity android:name=".TabLayoutExample"
+            android:screenOrientation="locked"
+            />
+
+
+
+
+
+
+
     </application>
 
 </manifest>
